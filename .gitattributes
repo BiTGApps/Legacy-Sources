@@ -1,1 +1,2 @@
 Maps/Maps.tar.xz filter=lfs diff=lfs merge=lfs -text
+Messaging/Messaging.tar.xz filter=lfs diff=lfs merge=lfs -text
